@@ -1,3 +1,6 @@
+
+//ok
+
 let NeDB = require('nedb');
 let db = new NeDB({
     filename:'users.db',
